@@ -43,4 +43,11 @@ __bold__
 
 ~strike~ (tilde)
 
+[title of link](https://www.neuefische.de) 
+[neuefische] [neuefisch]
+[neuefische] [neuefisch] ist toll
+
 just a test
+
+[neuefische](https://www.neuefische.de) 
+[google](https://www.google.com) 
