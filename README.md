@@ -31,4 +31,12 @@
 1. Item 3
 
 
+*italic/cursiv/emphasis*
+
+**bold/strong**
+
+_italic_
+
+__bold__
+
 just a test
