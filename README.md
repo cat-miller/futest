@@ -43,11 +43,18 @@ __bold__
 
 ~strike~ (tilde)
 
+## links
+
 [title of link](https://www.neuefische.de) 
 [neuefische] [neuefisch]
 [neuefische] [neuefisch] ist toll
+
+## Blockquote
+
+> I am a blockquote
 
 just a test
 
 [neuefische](https://www.neuefische.de) 
 [google](https://www.google.com) 
+
