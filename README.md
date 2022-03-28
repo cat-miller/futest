@@ -53,6 +53,22 @@ __bold__
 
 > I am a blockquote
 
+## Code
+this is `inline`.
+```
+this is a code block.
+```
+```md
+##h2
+```
+
+```html
+<h1>Headline</h1>
+```
+```shell
+cd path/to/same/folder
+```
+
 just a test
 
 [neuefische](https://www.neuefische.de) 
