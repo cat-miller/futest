@@ -39,4 +39,8 @@ _italic_
 
 __bold__
 
+## strikes
+
+~strike~ (tilde)
+
 just a test
